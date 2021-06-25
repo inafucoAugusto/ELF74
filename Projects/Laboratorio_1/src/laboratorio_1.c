@@ -25,18 +25,18 @@ void main(void){
     // T = 1/24MHz = 41.67 ns
     // 41.67 * 2 = 83.33 ns
     // delay = 1/83.33 ns = 12M
-    // while(count != 1200000){
-    //   count++;
-    // }
-    // count = 0;
+    while(count != 1200000){
+      count++;
+    }
+    count = 0;
 
     // -> BLINK COM LAÇOS DE ATRASO
     // f = 24Mhz
     // SysCtlDelay -> executa 3 instruções
     // T = 1/24MHz = 41.67 ns
     // 41.67 * 3 = 125 ns
-    // delay = 1/125 ns = 8M
-    SysCtlDelay(8000000);
+    // delay = 1/125 ns = 8M -> 1 segundo aceso + 1 segundo apagado
+    //SysCtlDelay(8000000);
 
     GPIOPinWrite(GPIO_PORTF_BASE, GPIO_PIN_0, change);
     change = !change;

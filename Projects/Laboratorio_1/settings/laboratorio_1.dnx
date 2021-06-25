@@ -46,22 +46,22 @@
         <MultiCoreRunAll>1</MultiCoreRunAll>
     </Simulator>
     <PlDriver>
-        <FirstRun>0</FirstRun>
         <MemConfigValue>D:\Program Files\IAR Systems\Embedded Workbench 9.0\arm\CONFIG\debugger\TexasInstruments\TM4C1294NCPDT.ddf</MemConfigValue>
+        <FirstRun>0</FirstRun>
     </PlDriver>
     <ArmDriver>
         <EnableCache>0</EnableCache>
     </ArmDriver>
     <LmiFtdiDriver>
-        <LMIFTDIserialNo>0F00CA53</LMIFTDIserialNo>
-        <LMIFTDIfoundProbes />
         <LeaveTargetRunning>_ 0</LeaveTargetRunning>
         <CStepIntDis>_ 0</CStepIntDis>
         <LmiFtdiResetStyle>0</LmiFtdiResetStyle>
         <LmiFtdiResetStrategy>0</LmiFtdiResetStrategy>
+        <LMIFTDIserialNo>0F00CA53</LMIFTDIserialNo>
+        <LMIFTDIfoundProbes />
     </LmiFtdiDriver>
     <DebugChecksum>
-        <Checksum>3342957571</Checksum>
+        <Checksum>2993879380</Checksum>
     </DebugChecksum>
     <Exceptions>
         <StopOnUncaught>_ 0</StopOnUncaught>
@@ -83,10 +83,6 @@
     <Breakpoints2>
         <Count>0</Count>
     </Breakpoints2>
-    <TermIOLog>
-        <LoggingEnabled>_ 0</LoggingEnabled>
-        <LogFile>_ ""</LogFile>
-    </TermIOLog>
     <LogFile>
         <LoggingEnabled>_ 0</LoggingEnabled>
         <LogFile>_ ""</LogFile>
@@ -102,4 +98,8 @@
     <CallStackStripe>
         <ShowTiming>1</ShowTiming>
     </CallStackStripe>
+    <TermIOLog>
+        <LoggingEnabled>_ 0</LoggingEnabled>
+        <LogFile>_ ""</LogFile>
+    </TermIOLog>
 </settings>
