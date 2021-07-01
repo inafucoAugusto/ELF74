@@ -13,7 +13,7 @@ Hugo Vieira Neto
 ## Analise e discussão da atividade
 ### Exercício prático 1
 O conteúdo presente no topo da pilha é:
-![img 1](./images/stack_1.png)
+![img 1](./images/stack_ex1_q1.png)
 Como podemos perceber as 8 primeiras *double words* são mostradas na figura acima. Esses 4 primeiros valores vem dos registradores: R0, R1, R2, R3 - Figura abaixo.
 ![](./images/registradores_1.png)
 Além disso, a ordem de aplicação dos valores na pilha foi: R3 -> R0,  uma vez que a topo contém o valor de R0 e a "base" contém o valor de R3.
@@ -29,11 +29,11 @@ Adicionando o símbolo __FPU_USED em Options → C/C++ Compiler e adicionando o 
 	}
 
 
-![](/images/geral_2.png)
+![](./images/geral_2.png)
 
 Os valores contidos em LR e Control, após a compilação do projeto até o break point definido em SysTick_Handler, são:
 
-![](/images/lr_control_2.png)
+![](./images/lr_control_2.png)
 
 Mudança na stack e nos registradores após a mudança no código:
 
