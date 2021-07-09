@@ -24,6 +24,10 @@ Hugo Vieira Neto
 
 - Sempre que houver uma exceção (evento) do SysTick_Handler o Estado será alterado, isto é, se estiver Ligado deverá ficar desligo e vice versa.
 
+### Exercício prático 3
+O projeto [fsm_event](https://github.com/inafucoAugusto/ELF74/tree/main/Projects/fsm_state) foi alterado para piscar os LEDS 1, 2 e 3 de acordo com Código de Gray.
+
 ## Referências
 - The Definitive Guide to ARM® Cortex®-M3 and Cortex®-M4 Processors, Third Edition by Joseph Yiu
 - [PlantUML](https://plantuml.com/)
+- [Código de Gray](https://nets-nuts.com.br/em-computacao-e-logica-digital-como-funciona-o-codigo-gray-e-qual-e-a-sua-aplicacao/)
