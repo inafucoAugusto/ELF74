@@ -27,6 +27,9 @@ Hugo Vieira Neto
 ### Exercício prático 3
 O projeto [fsm_event](https://github.com/inafucoAugusto/ELF74/tree/main/Projects/fsm_state) foi alterado para piscar os LEDS 1, 2 e 3 de acordo com Código de Gray.
 
+### Exercício prático 4
+![](http://www.plantuml.com/plantuml/png/SoWkIImgAStDuOhMYbNGJSalpzErK_1nTJ7auW9AbQI2sTLS2WgEoQbvAQdnEQafXWgwG3ME1OdfYH2kbO9hMMfUIJwN0bGKeGYX2Q6g5ibe8rIZZL2DDi8q6g48eGd5QA2XG0KvgMabK8yWP44yP2aaZGv0mu2X0000)
+
 ## Referências
 - The Definitive Guide to ARM® Cortex®-M3 and Cortex®-M4 Processors, Third Edition by Joseph Yiu
 - [PlantUML](https://plantuml.com/)
