@@ -1,0 +1,12 @@
+# ninja log v5
+1	437	6475589304862349	D:/Facul/Embarcados/ELF74/Projects/fsm_state/Debug/Obj/startup_TM4C1294.o	ad08c2ba6d2b2ad7
+244	1090	6475589311343644	D:/Facul/Embarcados/ELF74/Projects/fsm_state/Debug/Obj/system_TM4C1294_TW.o	56c3334ab979f764
+238	1136	6475589311353639	D:/Facul/Embarcados/ELF74/Projects/fsm_state/Debug/Obj/driverleds.o	47af0b548c2273b0
+1	88	6475591307810069	D:/Facul/Embarcados/ELF74/Projects/fsm_state/Debug/Obj/fsm_state.o	38e334ffa67847b8
+93	1429	6475591321083238	D:/Facul/Embarcados/ELF74/Projects/fsm_state/Debug/Exe/fsm_state.out	f319c738303407e5
+24	71	6475592242935346	D:/Facul/Embarcados/ELF74/Projects/fsm_state/Debug/Obj/fsm_state.o	38e334ffa67847b8
+76	119	6475592243404080	D:/Facul/Embarcados/ELF74/Projects/fsm_state/Debug/Exe/fsm_state.out	f319c738303407e5
+2	110	6475594095555440	D:/Facul/Embarcados/ELF74/Projects/fsm_state/Debug/Obj/fsm_state.o	38e334ffa67847b8
+115	157	6475594096040894	D:/Facul/Embarcados/ELF74/Projects/fsm_state/Debug/Exe/fsm_state.out	f319c738303407e5
+1	60	6475594700929317	D:/Facul/Embarcados/ELF74/Projects/fsm_state/Debug/Obj/fsm_state.o	38e334ffa67847b8
+62	106	6475594701418252	D:/Facul/Embarcados/ELF74/Projects/fsm_state/Debug/Exe/fsm_state.out	f319c738303407e5
